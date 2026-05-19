@@ -1,4 +1,6 @@
 //ここは見ないでね、ターミナルだけ見て～～～
+//変えたよ～
+
 #include<stdio.h>
 void txt(char message[120]){
     printf("%s\n>>>",message);
